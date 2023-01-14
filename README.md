@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/7f5qnky2tt6q5nwd?svg=true)](https://ci.appveyor.com/project/ApelsinkaLU/advanced-1)
